@@ -1,2 +1,2 @@
-# dawsgit
+# githauss
 Cross platform git frontend
